@@ -2,10 +2,10 @@
 
 ## **Оглавление**
 
-1. [ОПИСАНИЕ ПРОЕКТА](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Project-description)
-2. [ИНФОРМАЦИЯ О ДАТАСЕТЕ](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Case-description)
-3. [ЭТАПЫ РАБОТЫ НАД ПРОЕКТОМ](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Brief-info-about-data)
-4. [ИТОГИ](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Stages-of-work-on-the-project)
+1. [ОПИСАНИЕ ПРОЕКТА](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#1-описание-проекта)
+2. [ИНФОРМАЦИЯ О ДАТАСЕТЕ](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#2-информация-о-датасете)
+3. [ЭТАПЫ РАБОТЫ НАД ПРОЕКТОМ](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#3-этапы-работы-над-проектом)
+4. [ИТОГИ](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#4-итоги)
 
 
 ### **1. ОПИСАНИЕ ПРОЕКТА**
@@ -19,7 +19,7 @@
 Небольшая ремарка относительно целевого признака: мы не строим модель, которая предсказывает *рейтинг отеля*, а только *оценку рецензента*, который пишет отзыв на этот отель. Разнгица в том, что рейтинг отеля - совершенно другая величина, которая со временем может меняться менее радикально, чем оценки людей, его заселявших.
 Цель работы (субъективно) - обучиться самостоятельной работе с датасетом "под ключ", изучить демо-версию машинного обучения и "полировку" результата под отдельную метрику.
 
-[к оглавлению](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Index)
+[к оглавлению](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#оглавление)
 
 ### **2. ИНФОРМАЦИЯ О ДАТАСЕТЕ**
 
@@ -45,7 +45,7 @@
 
 [Google data storage](https://drive.google.com/file/d/1CCPtuk1OT4zNqc88n-bVvQBAF0ILyTvI/view?usp=sharing)
 
-[к оглавлению](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Index)
+[к оглавлению](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#оглавление)
 
 ### **3. ЭТАПЫ РАБОТЫ НАД ПРОЕКТОМ**
 
@@ -62,7 +62,7 @@
 
 Каждый этап является итеративным, шаги итераций не отображены в теле проекта для сохранения лаконичности.
 
-[к оглавлению](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Index)
+[к оглавлению](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#оглавление)
 
 ### **4. ИТОГИ**
 
@@ -74,4 +74,4 @@
 
 Итоговая метрика **MAPE** (среднее отклонение предсказанных значений от фактических в процентах) составила **0.131**.
 
-[к оглавлению](https://github.com/royvudgren/sf_data_science/tree/main/PROJECT%201/README.md#Index)
+[к оглавлению](https://github.com/royvudgren/sf_datascience_practice/tree/master/EDA-KAGGLE%20PROJECT%203#оглавление)
