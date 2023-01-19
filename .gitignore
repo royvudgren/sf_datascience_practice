@@ -1,3 +1,4 @@
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PYTHON-16 SOURCES/data/rating_movies_concat.xlsx
+PYTHON-16 SOURCES/data/ratings+movies.xlsx
